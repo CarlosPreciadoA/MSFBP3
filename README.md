@@ -556,8 +556,9 @@ flowchart TD
 ├── Respuestamatlab.pdf             # Gráfica de respuesta  MATLAB
 ├── RespuestaEDOsysmatlab.pdf             # Gráfica de respuesta EDOs MATLAB
 ├── Respuesta musculoesqueletica_Python.pdf             # Gráfica de respuesta Python
-├── Respuesta Control_Simulink.pdf                # Gráfica de respuesta EDOs MATLAB
-├── Respuesta Caso_Simulink.pdf         # Gráfica de lazo cerrado PID en MATLAB
+├── Respuesta Control_Simulink.pdf              
+├── Respuesta Caso_Simulink.pdf
+├── Parametros
 ```
 
 [Volver al contenido](#contenido)
