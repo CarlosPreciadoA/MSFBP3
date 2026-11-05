@@ -1,6 +1,6 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/MSFBP0)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=CarlosPreciadoA/MSFBP3)
 
-# Práctica 5.5 — Modelado y control del sistema musculoesquelético
+# Práctica 3 — Modelado y control del sistema musculoesquelético
 
 Repositorio académico de la asignatura **Modelado de Sistemas Fisiológicos**, correspondiente al programa de **Ingeniería Biomédica** del Tecnológico Nacional de México / Instituto Tecnológico de Tijuana. Esta práctica integra modelado mecánico fisiológico, analogías electromecánicas fuerza-voltaje, derivaciones analíticas por principio de superposición, funciones de transferencia, análisis de estabilidad en el plano complejo, sintonización de un controlador PID *in silico*, y simulación computacional comparativa en MATLAB/Simulink, Simscape Electrical y Python.
 
@@ -14,7 +14,7 @@ El caso de estudio analiza un **modelo mecánico viscoelástico musculoesquelét
 **Programa:** Ingeniería Biomédica  
 **Estudiante:** Nombre completo · Número de control · correo@tijuana.tecnm.mx  
 
-**Repositorio de la asignatura:** https://github.com/DrPaulValle/MSF-IBF1020  
+**Repositorio de la asignatura:** https://github.com/CarlosPreciadoA/MSFBP3 
 **Sede:** Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.
 
 ---
@@ -548,18 +548,16 @@ flowchart TD
 .
 ├── README.md                      # Reporte principal y guía de práctica
 ├── CITATION.cff                   # Archivo de citación bibliográfica del autor
-├── madrepalreadme.pdf             # Protocolo de la práctica 5.5
-├── Sistema musculoesqueletico.pdf # Cálculos analíticos por superposición
-├── musculoesqueletico.mlx         # Cuaderno computacional de MATLAB
-├── musculoesqueletico.slx         # Diagramas de Simulink y Simscape Electrical
-├── musculoesqueletico.py          # Script de simulación independiente en Python
+├──Apuntes del Sistema musculoesqueletico.pdf # Cálculos analíticos por superposición
+├── PreciadoC19211840.mlx         # Cuaderno computacional de MATLAB
+├── Practica.slx         # Diagramas de Simulink y Simscape Electrical
+├── PreciadoC19211840.py          # Script de simulación independiente en Python
 ├── diagrama_biologico.png        # Diagrama de correlación biológica (BioRender)
-├── impulse_matlab.pdf             # Gráfica de respuesta al impulso en MATLAB
-├── impulse_python.pdf             # Gráfica de respuesta al impulso en Python
-├── step_matlab.pdf                # Gráfica de respuesta al escalón en MATLAB
-├── step_python.pdf                # Gráfica de respuesta al escalón en Python
-├── closed_loop_matlab.pdf         # Gráfica de lazo cerrado PID en MATLAB
-└── closed_loop_python.pdf         # Gráfica de lazo cerrado PID en Python
+├── Respuestamatlab.pdf             # Gráfica de respuesta  MATLAB
+├── RespuestaEDOsysmatlab.pdf             # Gráfica de respuesta EDOs MATLAB
+├── Respuesta musculoesqueletica_Python.pdf             # Gráfica de respuesta Python
+├── Respuesta Control_Simulink.pdf                # Gráfica de respuesta EDOs MATLAB
+├── Respuesta Caso_Simulink.pdf         # Gráfica de lazo cerrado PID en MATLAB
 ```
 
 [Volver al contenido](#contenido)
